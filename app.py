@@ -1,7 +1,3 @@
-# Fazer download dos arquivos
-https://drive.google.com/file/d/1cLpZj-PUZMAKmNayBimDHRwxyUH6Lv8k/view?usp=sharing
-https://drive.google.com/file/d/1E1WXt8PQQ0v7naeiDHHCreHyeQJDvx8G/view?usp=sharing
-
 # Arquivo app.py
 import streamlit as st
 import tensorflow as tf
